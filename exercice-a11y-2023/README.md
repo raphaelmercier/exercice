@@ -1,8 +1,8 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
-- Prénom nom
+- Rodrigo Garay
+- Raphael Mercier
 
 ## Objectifs
 - Expérimenter le versionnage de fichiers avec GIT
@@ -31,24 +31,23 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+
+La majorité des textes alternatifs sont adéquats, cependant le log n'est pas adéquats. On pourrait préciser que c'est un logo et aussi préciser le fait que c'est un lien qui nous amène à la page principale.
+
+[capture-écran](images/capture%20ecran/sail_plein_air.png)
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
-- https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
-- https://www.rad.ca/  
------
------
------
+
+Les textes alternatifs sont adéquats, puisqu'ils décrivent très bien les éléments de la page web.
+
+[capture-écran](images/capture%20ecran/amazon.png)
+- https://www.lesoleil.com/
+
+Les textes alternatifs sont majoritairement inadéquats. Ils expliquent mal ce que les images sont, parfois ils répètent même ce que le textes accoter disent, et ils ne précisent pas que les images cliquables redirigent vers une autre page. 
+
+[capture-écran](images/capture%20ecran/rad.png)
+- https://www.rad.ca/
+
+Le site n'a pas de textes alternatifs, mais a des aria-labels qui décrivent très bien les images. Parfois, ils répètent déja ce que les textes d'accoter
 [capture-écran]()
 
 Astuce  
